@@ -1,4 +1,4 @@
-# Olá, eu sou [Guilherme Sutille]! 👋
+# Olá, eu sou Guilherme Sutille! 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-sutille-682776252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
