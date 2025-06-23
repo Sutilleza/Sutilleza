@@ -37,12 +37,4 @@ Sou um desenvolvedor de software buscando oportunidades para construir soluçõe
 
 ---
 
-### ✨ Meus Principais Projetos
-
-* **[Nome do Projeto 1]**: Uma breve descrição do que o projeto faz e qual problema ele resolve. ([Link para o repositório](#))
-* **[Nome do Projeto 2]**: Uma breve descrição do que o projeto faz e qual problema ele resolve. ([Link para o repositório](#))
-* **(Ideia)** **Sistema de Ordem de Serviço:** Crie um sistema em Python para gerenciar seus consertos de computador.
-
----
-
 ![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
