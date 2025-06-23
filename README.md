@@ -16,7 +16,7 @@ Sou um desenvolvedor de software buscando oportunidades para construir soluçõe
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plsql/plsql-original.svg" height="40" alt="plsql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plsql/plsql-plain.svg" height="40" alt="plsql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
