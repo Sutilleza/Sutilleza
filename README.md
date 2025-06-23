@@ -37,4 +37,4 @@ Sou um desenvolvedor de software buscando oportunidades para construir soluçõe
 
 ---
 
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=sutilleza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
